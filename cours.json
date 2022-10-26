@@ -1,0 +1,85 @@
+[
+  {
+    "_id": "004fbd15261f11c2ab6a",
+
+    "category_id": "01",
+    "title": "HTML CLASS",
+    "author": {
+      "name": "HTML CLASS ",
+      "img": "https://www.techfor.id/wp-content/uploads/2019/12/html.png"
+    },
+    "thumbnail_url": "https://www.freecodecamp.org/news/content/images/2021/08/html.png",
+    "image_url": "https://www.freecodecamp.org/news/content/images/2021/08/html.png",
+    "details": "HTML is the standard markup language for Web pages.With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!"
+  },
+
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+
+    "category_id": "02",
+    "title": "CSS CLASS",
+    "author": {
+      "name": "",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6R4VlaoJ0omvncvhDJb-w7SLYxdAgq2Jy4lUV1Zvg6NxC1R_MHW_oiyhh9GHuMcW5BI&usqp=CAU"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6R4VlaoJ0omvncvhDJb-w7SLYxdAgq2Jy4lUV1Zvg6NxC1R_MHW_oiyhh9GHuMcW5BI&usqp=CAU",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6R4VlaoJ0omvncvhDJb-w7SLYxdAgq2Jy4lUV1Zvg6NxC1R_MHW_oiyhh9GHuMcW5BI&usqp=CAU",
+    "details": "ACSS is the  language we use to style an HTML document.CSS describes how  HTML elements should be displayed.  This tutorial will teach you CSS from basic to advanced "
+  },
+
+  {
+    "_id": "512312342rds",
+
+    "category_id": "03",
+    "title": "Bootsrap Class",
+    "author": {
+      "img": "https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/194523/image-1582754405203-acf85cc241bac1caa6b2cd3a460024f8.png"
+    },
+    "thumbnail_url": "https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/194523/image-1582754405203-acf85cc241bac1caa6b2cd3a460024f8.png",
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/194523/image-1582754405203-acf85cc241bac1caa6b2cd3a460024f8.png",
+    "details": "Bootstrap is a free front-end framework for faster and easier web development.  Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image.  carousels and many other, as well as optional JavaScript plugins   Bootstrap also gives you the ability to easily create responsive designs"
+  },
+
+  {
+    "_id": "edc8a7900",
+
+    "category_id": "04",
+    "title": "Tailwind CSS Class",
+    "author": {
+      "name": "Tailwind CSS",
+      "img": "https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg"
+    },
+    "thumbnail_url": "https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg",
+    "image_url": "https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg",
+    "details": "   Tailwind is a Utility css framework for quickly creating user interfaces   Bulma is modern opensource framework for developing web applications using CSS only, Javascript is not required. It is developed based on flexbox  Bulma framework is easy to use and strong documentation provided."
+  },
+
+  {
+    "_id": "f06f8cc0198281915a3",
+
+    "category_id": "05",
+    "title": "JavaScript CLass",
+    "author": {
+      "name": "",
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--72DWLTXf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nbgcvpk0f1h58q9f19ep.jpeg "
+    },
+    "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--72DWLTXf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nbgcvpk0f1h58q9f19ep.jpeg",
+    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--72DWLTXf--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nbgcvpk0f1h58q9f19ep.jpeg",
+    "details": "."
+  },
+
+  {
+    "_id": "1yf5fc80c72f0",
+
+    "category_id": "06",
+
+    "title": "Node js ",
+    "author": {
+      "name": "React js ",
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--e_rqeB7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AFPtQLT2Zk-baHficCz_mXQ.png"
+    },
+    "thumbnail_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--e_rqeB7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AFPtQLT2Zk-baHficCz_mXQ.png",
+    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--e_rqeB7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AFPtQLT2Zk-baHficCz_mXQ.png",
+    "details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+  }
+]

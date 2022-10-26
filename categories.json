@@ -1,0 +1,31 @@
+[
+  {
+    "id": "00",
+    "name": "All Course"
+  },
+
+  {
+    "id": "01",
+    "name": "HTML"
+  },
+  {
+    "id": "02",
+    "name": "CSS"
+  },
+  {
+    "id": "03",
+    "name": "CSS Bootsrap"
+  },
+  {
+    "id": "04",
+    "name": " Tailwind Css"
+  },
+  {
+    "id": "05",
+    "name": "JavaScript"
+  },
+  {
+    "id": "06",
+    "name": "React Js"
+  }
+]
